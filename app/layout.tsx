@@ -3,6 +3,8 @@
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import "primereact/resources/themes/lara-light-cyan/theme.css";
+import "primereact/resources/primereact.min.css";
+import "primeicons/primeicons.css";
 import { PrimeReactProvider } from 'primereact/api';  
 
 const geistSans = Geist({
